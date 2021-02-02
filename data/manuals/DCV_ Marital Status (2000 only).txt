@@ -1,0 +1,6 @@
+MARSTAT	Description
+1	Single
+2	Married and living with spouse
+3	Married and not living with spouse
+4	Divorced
+5	Widowed

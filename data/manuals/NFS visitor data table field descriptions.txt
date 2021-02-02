@@ -1,0 +1,9 @@
+Table_Name	Field_Name	Description	Type_(MS_Access_numeric_type)	Size_(MS_Access_number_of_bytes)	Type_(MS_Access_alphanumeric_type)	NFS Lookup table (in refdat.mdb database or as Tab file)	Notes
+Data: visitor data	hhno	household number	4	4	"Number, Long Integer"		
+Data: visitor data	visgpno	visitor group number	4	4	"Number, Long Integer"		
+Data: visitor data	sex	gender (1=male 2=female)	4	4	"Number, Long Integer"		
+Data: visitor data	age	banded age of visitor group	4	4	"Number, Long Integer"		"All age fields have been banded for disclosure control purposes. Due to differing data, banding is slightly changed from 1985 on, please use Ref_Age_bands_for_visitors_pre_1985.txt or Ref_Age_bands_for_visitors_post_1984.txt"
+Data: visitor data	occ	occupation code	4	4	"Number, Long Integer"	DCV_ OCC_OCCHOH Occupation class with unpacked descriptions	"Field empty from 1994, replaced by SOCHOH"
+Data: visitor data	soc	standard occupation classification	4	4	"Number, Long Integer"	DCV: Standard occupation class	Field empty before 1995
+Data: visitor data	dact	degree of activity (0=other 1=sedentary 2=moderately active 3=very active)	4	4	"Number, Long Integer"	DCV: Degree of activity	"Field invalid from 1994, contains full stops and varying spaces"
+Data: visitor data	nbalvis	net balance (100 if visitor groups takes all meals from the household supply only)	4	4	"Number, Long Integer"		

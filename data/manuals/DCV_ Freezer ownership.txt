@@ -1,0 +1,3 @@
+freezer	Description
+0	DO NOT OWN FREEZER
+1	FREEZER OWNERS

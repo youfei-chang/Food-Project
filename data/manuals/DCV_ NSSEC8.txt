@@ -1,0 +1,11 @@
+NSSEC-8	Description
+0	Not recorded
+1	Large Employers and Higher Managerial Occupations
+2	Higher Professional Occupations
+3	Lower Managerial and  Professional Occupations
+4	Intermediate Occupations
+5	Small Employers and Own Account Workers
+6	Lower Supervisory and Technical Occupations
+7	Semi-Routine Occupations
+8	Routine Occupatons
+9	Never Worked and Long Term Unemployed

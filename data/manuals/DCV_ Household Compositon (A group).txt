@@ -1,0 +1,8 @@
+hhcompa	Description	Long Description
+1	1A	All adult
+2	1A+C	1 adult plus children
+3	2A 1C	2 adults, 1 child
+4	2A 2C	2 adults, 2 children
+5	2A 3C	2 adults, 3 children
+6	2A 4+C	2 adults, 4 or more children
+7	3+A 1-2C	3 or more adults plus children

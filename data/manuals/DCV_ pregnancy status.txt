@@ -1,0 +1,3 @@
+preg	Description
+1	Pregnant
+2	Not pregnant

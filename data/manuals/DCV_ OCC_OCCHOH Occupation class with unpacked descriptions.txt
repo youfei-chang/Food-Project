@@ -1,0 +1,194 @@
+occ	description	unpacked description
+101	FISH GARD GRMEN SLF EMP NONAGCUL	Fishermen, Gardeners, Groundsmen Self-Employed Non-Agricultural
+102	FISH GARD GRMEN MGRS NONAGCUL	Fishermen, Gardeners, Groundsmen Managers Non-Agricultural
+103	FISH GARD GRMEN FOREMEN NONAGCUL	Fishermen, Gardeners, Groundsmen Foremen Non-Agricultural
+104	FISH GARD GRMEN EMP NEC NONAGCUL	Fishermen, Gardeners, Groundsmen, Employees not elsewhere classified Non-Agricultural
+121	FMMGRS MKGARD SLF EMP FMS FOR FISH AGCUL	Farm Managers, Market Gardeners, Self-Employed, Farmers, Foresters, Fishermen, Agricultural
+122	FMS MARGARD MGRS FMS FOR FISH AGCUL	Farmers, Market Gardeners, Managers, Farmers, Foresters, Fishermen, Agricultural
+151	P SKD SLF EMP FMS FOR FISH AGCUL	Partly Skilled, Self-Employed, Farmers, Foresters, Fishermen, Agricultural
+152	P SKD MGRS FMS FOR FISH AGCUL	Partly Skilled, Managers, Farmers, Foresters, Fishermen, Agricultural
+153	P SKD FOREMEN FMS FOR FISH AGCUL	Partly Skilled, Foremen, Farmers, Foresters, Fishermen, Agricultural
+154	P SKD EMP NEC FMS FOR FISH AGCUL	Partly Skilled, Employees, not elsewhere classified, Farmers, Foresters, Fishermen, Agricultural
+241	SKD SLF EMP MINERS & QUARRYMEN	Skilled, Self-Employed, Miners & Quarrymen
+242	SKD MGRS MINERS & QUARRYMEN	Skilled, Managers, Miners & Quarrymen
+243	SKD FOREMEN MINERS & QUARRYMEN	Skilled, Foremen, Miners & Quarrymen
+244	SKD EMP NEC MINERS & QUARRYMEN	Skilled, Employees, not elsewhere classified Miners & Quarrymen
+251	P SKD SLF EMP MINERS & QUARRYMEN	Partly Skilled, Self-Employed, Miners & Quarrymen Quarrymen
+252	P SKD MGRS MINERS & QUARRRYMEN	Partly Skilled, Managers, Miners & Quarrymen
+253	P SKD FOREMEN MINERS & QUARRYMEN	Partly Skilled, Foremen, Miners & Quarrymen
+254	P SKD EMP NEC MINERS & QUARRYMEN	Partly Skilled, Employees, not elsewhere classified Miners & Quarrymen
+351	P SKD SLF EMP GAS, COKE & CML MAKERS	Partly Skilled, Self-Employed, Gas, Coke & Chemicals Makers
+352	P SKD MGRS GAS, COKE & CML MAKERS	Partly Skilled, Managers, Gas, Coke & Chemicals Makers
+353	P SKD FOREMEN GAS, COKE CML MAKERS	Partly Skilled, Foremen, Gas, Coke & Chemicals Makers
+354	P SKD EMP NEC GAS, COKE & CML MAKERS	Partly Skilled, Employees, not elsewhere classified, Gas, Coke & Chemicals Makers
+441	SKD SLF EMP GLASS & CRS MAKERS	Skilled, Self-Employed, Glass & Ceramics Makers
+442	SKD MGRSGLASS & CRS MAKERS	Skilled, Managers, Glass & Ceramics Makers
+443	SKD FOREMEN GLASS & CMS MAKERS	Skilled, Foremen, Glass & Ceramics Makers
+444	SKD EMP NEC GLASS & CMS MAKERS	Skilled, Employees, not elsewhere classified, Glass & Ceramics Makers
+451	P SKD SLF EMP GLASS & CMS MAKERS	Partly Skilled, Self-Employed, Glass & Ceramics Makers
+452	P SKD MGRS GLASS & CMS MAKERS	Partly Skilled, Managers, Glass & Ceramics Makers
+453	P SKD FOREMEN GLASS & CMS MAKERS	Partly Skilled, Foremen, Glass & Ceramics Makers
+454	P SKD EMP NEC GLASS & CMS MAKERS	Partly Skilled, Employees, not elsewhere classified, Glass & Ceramics Makers
+541	SKD SLF EMP FUR FRGE FUDRY ROLMIL WRKS	Skilled, Self-Employed, Furnacemen, Forgemen, Foundrymen, Rolling Mill Workers
+542	SKD MGRS FUR FRGE FUDRY ROLMIL WRKS	Skilled, Managers, Furnacemen, Forgemen, Foundrymen, Rolling Mill Workers
+543	SKD FOREMEN FUR FRGE FUDRY ROLMIL WRKS	Skilled, Foremen, Furnacemen, Forgemen, Foundrymen, Rolling Mill Workers
+544	SKD EMP NEC FUR FRGE FUDRY ROLMIL WRKS	Skilled, Employees, not elsewhere classified, Furnacemen, Forgemen, Foundrymen, Rolling Mill Workers
+551	P SKD SLF EMP FUR FRGE FUDRY ROLMIL WRKS	Partly Skilled, Self-Employed, Furnacemen, Forgemen, Foundrymen, Rolling Mill Workers
+552	P SKD MGRS FUR FRGE FUDRY ROLMIL WRKS	Partly Skilled, Managers, Furnacemen, Forgemen, Foundrymen, Rolling Mill Workers
+553	P SKD FOREMEN FUR FRGE FUDRY ROLMIL WRKS	Partly Skilled, Foremen, Furnacemen, Forgemen, Foundrymen, Rolling Mill Workers
+554	P SKD EMP NEC FUR FRGE FUDRY ROLMIL WRKS	Partly Skilled, Employees, not elsewhere classified, Furnacemen, Forgemen, Foundrymen, Rolling Mill Workers
+641	SKD  SLF EMP ELECTRIC ELECTRONIC WRKS	Skilled, Self-Employed, Electrical, Electronic Workers
+642	SKD MGRS ELECTRIC ELECTRONIC WRKS	Skilled, Managers, Electrical, Electronic Workers
+643	SKD FOREMEN ELECTRIC ELECTRONIC WRKS	Skilled, Foremen, Electrical, Electronic Workers
+644	SKD EMP NEC ELECTRIC ELECTRONIC WRKS	Skilled, Employees, not elsewhere classified, Electrical, Electronic Workers
+651	P SKD SLF EMP ELECTRIC ELECTRONIC WRKS	Partly Skilled, Self-Employed, Electrical, Electronic Workers
+653	P SKD FOREMEN ELECTRIC ELECTRONIC WRKS	Partly Skilled, Foremen, Electrical, Electronic Workers
+654	P SKD EMP NEC ELECTRIC ELECTRONIC WRKS	Partly Skilled, Employees, not elsewhere classified, Electrical, Electronic Workers
+741	SKD SLF EMP ENG & ALLIED TRADES NEC	Skilled, Self-Employed, Engineering & Allied Trades, not elsewhere classified
+742	SKD MGRS ENG & ALLIED TRADES NEC	Skilled, Managers, Engineering & Allied Trades, not elsewhere classified
+743	SKD FOREMEN ENG & ALLIED TRADES NEC	Skilled, Foremen, Engineering & Allied Trades, not elsewhere classified
+744	SKD EMP NEC ENG & ALLIED TRADES NEC	Skilled, Employees, not elsewhere classified, Engineering & Allied Trades, not elsewhere classified
+751	P SKD SLF EMP ENG & ALLIED TRADES NEC	Partly Skilled, Self-Employed, Engineering & Allied Trades, not elsewhere classified
+752	P SKD MGRS ENG & ALLIED TRADES NEC	Partly Skilled, Managers, Engineering & Allied Trades, not elsewhere classified
+753	P SKD FOREMEN ENG & ALLIED TRADES NEC	Partly Skilled, Foremen, Engineering & Allied Trades, not elsewhere classified
+754	P SKD EMP NEC ENG & ALLIED TRADES NEC	Partly Skilled, Employees, not elsewhere classified, Engineering & Allied Trades, not elsewhere classified
+841	SKD SLF EMP WOODWORKERS	Skilled, Self-Employed, Woodworkers
+842	SKD MGRS WOODWORKERS	Skilled, Managers, Woodworkers
+843	SKD FOREMEN WOODWORKERS	Skilled, Foremen, Woodworkers
+844	SKD EMP NEC WOODWORKERS	Skilled, Employees, not elsewhere classified, Woodworkers
+941	SKD SLF EMP LEATHERWORKERS	Skilled, Self-Employed, Leatherworkers
+942	SKD MGRS LEATHERWORKERS	Skilled, Managers, Leatherworkers
+943	SKD FOREMEN LEATHERWORKERS	Skilled, Foremen, Leatherworkers
+944	SKD EMP NEC LEATHERWORKERS	Skilled, Employees, not elsewhere classified, Leatherworkers
+1041	SKD SLF EMP TEXTILE WORKERS	Skilled, Self-Employed, Textile Workers
+1042	SKD MGRS TEXTILE WORKERS	Skilled, Managers, Textile Workers
+1043	SKD FOREMEN TEXTILE WORKERS	Skilled, Foremen, Textile Workers
+1044	SKD EMP NEC TEXTILE WORKERS	Skilled, Employees, not elsewhere classified, Textile Workers
+1051	P SKD SLF EMP TEXTILE WORKERS	Partly Skilled, Self-Employed, Textile Workers
+1052	P SKD MGRS TEXTILE WORKERS	Partly Skilled, Managers, Textile Workers
+1053	P SKD FOREMEN TEXTILE WORKERS	Partly Skilled, Foremen, Textile Workers
+1054	P SKD EMP NEC TEXTILE WORKERS	Partly Skilled, Employees, not elsewhere classified, Textile Workers
+1141	SKD SLF EMP CLOTHING WORKERS	Skilled, Self-Employed, Clothing Workers
+1142	SKD MGRS CLOTHING WORKERS	Skilled, Managers, Clothing Workers
+1143	SKD FOREMEN CLOTHING WORKERS	Skilled, Foremen, Clothing Workers
+1144	SKD EMP NEC CLOTHING WORKERS	Skilled, Employees, not elsewhere classified, Clothing Workers
+1151	P SKD SLF EMP CLOTHING WORKERS	Partly Skilled, Self-Employed, Clothing Workers
+1153	P SKD FOREMEN CLOTHING WORKERS	Partly Skilled, Foremen, Clothing Workers
+1154	P SKD EMPLOYEES CLOTHING WORKERS	Partly Skilled, Employees, Clothing Workers
+1241	SKD SLF EMP FD DK & TBO WORKERS	Skilled, Self-Employed, Food, Drink & Tobacco Workers
+1242	SKD MGRS FD DK& TBO WORKERS	Skilled, Managers, Food, Drink & Tobacco Workers
+1243	SKD FOREMEN FD DK & TBO WORKERS	Skilled, Foremen, Food, Drink & Tobacco Workers
+1244	SKD EMP NEC FD DK & TBO WORKERS	Skilled, Employees, not elsewhere classified, Food, Drink & Tobacco Workers
+1251	P SKD SLF EMP FD DK & TBO WORKERS	Partly Skilled, Self-Employed, Food, Drink & Tobacco Workers
+1252	P SKD MGRS FD DK & TBO WORKERS	Partly Skilled, Managers, Food, Drink & Tobacco Workers
+1253	P SKD FOREMEN FD DK & TBO WORKERS	Partly Skilled, Foremen, Food, Drink & Tobacco Workers
+1254	P SKD EMP NEC FD DK & TBO WORKERS	Partly Skilled, Employees, not elsewhere classified, Food, Drink & Tobacco Workers
+1341	SKD SLF EMP PAPER & PRINTING WORKERS	Skilled, Self-Employed, Paper & Printing Workers
+1342	SKD MGRS PAPER & PRINTING WORKERS	Skilled, Managers, Paper & Printing Workers
+1343	SKD FOREMEN PAPER & PRINTING WORKERS	Skilled, Foremen, Paper & Printing Workers
+1344	SKD EMP NEC PAPER & PRINTING WORKERS	Skilled, Employees, not elsewhere classified, Paper & Printing Workers
+1441	SKD SLF EMP MAKERS OTH PROD RUB PLSTCS	Skilled, Self-Employed, Makers of Other Products in Rubber & Plastics
+1442	SKD MGRS MAKERS OTH PROD RUB PLSTCS	Skilled, Managers, Makers of Other Products in Rubber & Plastics
+1443	SKD FOREMEN MAKERS OTH PROD RUB PLSTCS	Skilled, Foremen, Makers of Other Products in Rubber & Plastics
+1444	SKD EMP NEC MAKERS OTH PROD RUB PLSTCS	Skilled, Employees, not elsewhere classified, Makers of Other Products in Rubber & Plastics
+1451	P SKD SLF EMP MAKERS OTH PROD RUB PLSTCS	Partly Skilled, Self-Employed, Makers of Other Products in Rubber & Plastics
+1452	P SKD MGRS MAKERS OTH PROD RUB PLSTCS	Partly Skilled, Managers, Makers of Other Products in Rubber & Plastics
+1453	P SKD FOREMEN MAKERS OTH PROD RUB PLSTCS	Partly Skilled, Foremen, Makers of Other Products in Rubber & Plastics
+1454	P SKD EMP NEC MAKERS OTH PROD RUB PLSTCS	Partly Skilled, Employees, not elsewhere classified, Makers of Other Products in Rubber & Plastics
+1541	SKD SLF EMP CONSTRUCTION WORKERS	Skilled, Self-Employed, Construction Workers
+1542	SKD MGRS CONSTRUCTION WORKERS	Skilled, Managers, Construction Workers
+1543	SKD FOREMEN CONSTRUCRTION WORKERS	Skilled, Foremen, Construction Workers
+1544	SKD EMP NEC CONSTRUCTION WORKERS	Skilled, Employees, not elsewhere classified, Construction Workers
+1551	P SKD SLF EMP CONSTRUCTION WORKERS	Partly Skilled, Self-Employed, Construction Workers
+1552	P SKD MGRS CONSTRUCTION WORKERS	Partly Skilled, Managers, Construction Workers
+1553	P SKD FOREMAN CONSTRUCTION WORKERS	Partly Skilled, Foremen, Construction Workers
+1554	P SKD EMP NEC CONSTRUCTION WORKERS	Partly Skilled, Employees, not elsewhere classified, Construction Workers
+1641	SKD SLF EMP PAINTERS & DECORATORS	Skilled, Self-Employed, Painters & Decorators
+1642	SKD MGRS PAINTERS & DECORATORS	Skilled, Managers, Painters & Decorators
+1643	SKD FOREMEN PAINTERS & DECORATORS	Skilled, Foremen, Painters & Decorators
+1644	SKD EMP NEC PAINTERS & DECORATORS	Skilled, Employees, not elsewhere classified, Painters & Decorators
+1651	P SKD SLF EMP PAINTERS & DECORATORS	Partly Skilled, Self-Employed, Painters & Decorators
+1652	P SKD MGRS PAINTERS & DECORATORS	Partly Skilled, Managers, Painters & Decorators
+1653	P SKD FOREMEN PAINTERS & DECORATORS	Partly Skilled, Foremen, Painters & Decorators
+1654	P SKD EMP NEC PAINTERS & DECORATORS	Partly Skilled, Employees, not elsewhere classified, Painters & Decorators
+1741	SKD SLF EMP DRIVERS STATION ENG CRANES	Skilled, Self-Employed, Drivers of Stationary Engines, Cranes etc.
+1742	SKD MGRS DRIVERS STATION ENG CRANES	Skilled, Managers, Drivers of Stationary Engines, Cranes etc.
+1743	SKD FOREMEN DRIVERS STATION ENG CRANES	Skilled, Foremen, Drivers of Stationary Engines, Cranes etc.
+1744	SKD EMP NEC DRIVERS STATION ENG CRANES	Skilled, Employees, not elsewhere classified, Drivers of Stationary Engines, Cranes etc.
+1753	P SKD FOREMEN DRIVERS STATION ENG CRANES	Partly Skilled, Foremen, Drivers of Stationary Engines, Cranes etc.
+1754	P SKD EMP NEC DRIVERS STATION ENG CRANES	Partly Skilled, Employees, not elsewhere classified, Drivers of Stationary Engines, Cranes etc.
+1853	P SKD FOREMEN LABOURERS & UNSKD WORKERS	Partly Skilled, Foremen, Labourers & Unskilled Workers
+1854	P SKD EMP NEC LABOURERS & UNSKD WORKERS	Partly Skilled, Employees, not elsewhere classified, Labourers & Unskilled Workers
+1891	UNSKD SLF EMP LABOURERS & UNSKD WORKERS	Unskilled, Self-Employed, Labourers & Unskilled Workers
+1893	UNSKD FOREMEN LABOURERS & UNSKD WORKERS	Unskilled, Foremen, Labourers & Unskilled Workers
+1894	UNSKD EMP NEC LABOURERS & UNSKD WORKERS	Unskilled, Employees, not elsewhere classified, Labourers & Unskilled Workers
+1921	INT OCC SLF EMP TRNSPRT & COMM WORKERS	Intermediate Occupations, Self-Employed, Transport & Unskilled Communications Workers
+1922	INT OCC MGRS TRNSPRT & COMM WORKERS	Intermediate Occupations, Managers, Transport, & Communications Workers
+1923	INT OCC FOREMEN TRNSPRT & COMM WORKERS	Intermediate Occupations, Foremen, Transport & Communications Workers
+1924	INT OCC EMP NEC TRNSPRT & COMM WORKERS	Intermediate Occupations, Employees, not elsewhere classified, Transport & Communications Workers
+1941	SKD SLF EMP TRNSPRT & COMM WORKERS	Skilled, Self-Employed, Transport & Communications Workers
+1942	SKD MGRS TRNSPRT & COMM WORKERS	Skilled, Managers, Transport & Communications Workers
+1943	SKD FOREMEN TRNSPRT & COMM WORKERS	Skilled, Foremen, Transport & Communications Workers
+1944	SKD EMP NEC TRNSPRT & COMM WORKERS	Skilled Employees, not elsewhere classified, Transport & Communications Workers
+1951	P SKD SLF EMP TRNSPRT & COMM WORKERS	Partly Skilled, Self-Employed, Transport & Communications Workers
+1952	P SKD MGRS TRNSPRT & COMM WORKERS	Partly Skilled, Managers, Transport & Communications Workers
+1953	P SKD FOREMEN TRNSPRT & COMM WORKERS	Partly Skilled, Foremen, Transport & Communications Workers
+1954	P SKD EMP NEC TRNSPRT & COMM WORKERS	Partly Skilled Employees, not elsewhere classified, Transport & Communications Workers
+1991	UNSKD SLF EMP TRNSPRT & COMM WORKERS	Unskilled, Self-Employed, Transport & Communications Workers
+1992	UNSKD MGRS TRNSPRT & COMM WORKERS	Unskilled, Managers, Transport & Communications Workers
+1993	UNSKD FOREMEN TRNSPRT & COMM WORKERS	Unskilled, Foremen, Transport & Communications Workers
+1994	UNSKD EMP NEC TRNSPRT & COMM WORKERS	Unskilled Employees, not elsewhere classified, Transport & Communications, Workers
+2051	P SKD SLF EMP WHOUS STKEEPRS PCKS BOTTLS	Partly Skilled, Self-Employed, Warehousemen, Storekeepers, Packers, Bottlers
+2052	P SKD MGRS WHOUS STKEEPRS PCKS BOTTLS	Partly Skilled, Managers, Warehousemen, Storekeepers, Packers, Bottlers
+2053	P SKD FOREMEN WHOUS STKEEPRS PCKS BOTTLS	Partly Skilled, Foremen, Warehousemen, Storekeepers, Packers, Bottlers
+2054	P SKD EMP NEC WHOUS STKEEPRS PCKS BOTTLS	Partly Skilled, Employees, not elsewhere classified, Warehousemen, Storekeepers, Packers, Bottlers
+2122	INT MGRS CLERICAL WORKERS	Intermediate, Managers, Clerical Workers
+2123	INT FOREMEN CLERICAL WORKERS	Intermediate, Foremen, Clerical Workers
+2141	SKD SLF EMP CLERICAL WORKERS	Skilled, Self-Employed, Clerical Workers
+2143	SKD FOREMEN CLERICAL WORKERS	Skilled, Foremen, Clerical Workers
+2144	SKD EMP NEC CLERICAL WORKERS	Skilled, Employees, not elsewhere classified, Clerical Workers
+2221	INT OCC SLF EMP SALES WORKERS	Intermediate Occupations, Self-Employed, Sales Workers
+2222	INT OCC MGRS SALES WORKERS	Intermediate Occupations, Managers, Sales Workers
+2241	SKD SLF EMP SALES WORKERS	Skilled, Self-Employed, Sales Workers
+2242	SKD MGRS SALES WORKERS	Skilled, Managers, Sales Workers
+2243	SKD FOREMEN SALES WORKERS	Skilled, Foremen, Sales Workers
+2244	SKD EMP NEC SALES WORKERS	Skilled, Employees, not elsewhere classified, Sales Workers
+2251	P SKD SLF EMP SALES WORKERS	Partly Skilled, Self-Employed, Sales Workers
+2252	P SKD MGRS SALES WORKERS	Partly Skilled, Managers, Sales Workers
+2253	P SKD FOREMEN SALES WORKERS	Partly Skilled, Foremen, Sales Workers
+2254	P SKD EMP NEC SALES WORKERS	Partly Skilled, Employees, Sales Workers
+2321	INT OCC SLF EMP SERV SPORT & REC WORKERS	Intermediate Occupations, Self-Employed, Service, Sport & Recreation Workers
+2322	INT OCC MGRS SERV SPORT & REC WORKERS	Intermediate Occupations, Managers, Service, Sport & Recreation Workers
+2323	INT OCC FOREMEN SERV SPORT & REC WORKERS	Intermediate Occupations, Foremen, Service, Sport & Recreation Workers
+2324	INT OCC EMP NEC SERV SPORT & REC WORKERS	Intermediate Occupations, Employees, not elsewhere classified, Service, Sport & Recreation Workers
+2341	SKD SLF EMP SERV SPORT & REC WORKERS	Skilled, Self-Employed, Service, Sport & Recreation Workers
+2342	SKD MGRS SERV SPORT & REC WORKERS	Skilled, Managers, Service, Sport & Recreation Workers
+2343	SKD FOREMEN SERV SPORT & REC WORKERS	Skilled, Foremen, Service, Sport & Recreation Workers
+2344	SKD EMP NEC SERV SPORT & REC WORKERS	Skilled, Employees, not elsewhere classified, Service, Sport & Recreation Workers
+2351	P SKD SLF EMP SERV SPORT & REC WORKERS	Partly Skilled, Self-Employed, Service, Sport & Recreation Workers
+2352	P SKD MGRS SERV SPORT & REC WORKERS	Partly Skilled, Managers, Service, Sport & Recreation Workers
+2353	P SKD FOREMEN SERV SPORT & REC WORKERS	Partly Skilled, Foremen, Service, Sport & Recreation Workers
+2354	P SKD EMP NEC SERV SPORT & REC WORKERS	Partly Skilled, Employees, not elsewhere classified, Service, Sport & Recreation Workers
+2391	UNSKD SLF EMP SERV SPORT & REC WORKERS	Unskilled, Self-Employed, Service, Sport & Recreation Workers
+2392	UNSKD MGRS SERV SPORT & REC WORKERS	Unskilled, Managers, Service, Sport & Recreation Workers
+2393	UNSKD FOREMEN SERV SPORT & REC WORKERS	Unskilled, Foremen, Service, Sport & Recreation Workers
+2394	UNSKD EMP NEC SERV SPORT & REC WORKERS	Unskilled, Employees, not elsewhere classified, Service, Sport & Recreation Workers
+2422	INT OCC MGRS ADMINISTRATION AND MANAGERS	Intermediate Occupations, Managers, Administrators & Managers
+2511	PROF SLF EMP PROF TECH WRKS ARTISTS	Professional, Self-Employed, Professional, Technical Workers, Artists
+2514	PROF EMP NEC PROF TECH WRKS ARTISTS	Professional, Employees, not elsewhere classified, Professional, Technical Workers, Artists
+2521	INT OCC SLF EMP PROF TECH WRKS ARTISTS	Intermediate Occupations, Self-Employed, Professional, Technical Workers, Artists
+2522	INT OCC MGRS PROF TECH WRKS ARTISTS	Intermediate Occupations, Managers, Professional, Technical Workers, Artists
+2523	INT OCC FOREMEN PROF TECH WRKS ARTISTS	Intermediate Occupations, Foremen, Professional, Technical Workers, Artists
+2524	INT OCC EMP NEC PROF TECH WRKS ARTISTS	Intermediate Occupations, Employees, not elsewhere classified, Professional, Technical Workers, Artists
+2541	SKD SLF EMP PROF TECH WRKS ARTISTS	Skilled, Self-Employed, Professional, Technical Workers, Artists
+2542	SKD MGRS PROF TECH WRKS ARTISTS	Skilled, Managers, Professional, Technical Workers, Artists
+2543	SKD FOREMEN PROF TECH WRKS ARTISTS	Skilled, Foremen, Professional, Technical Workers, Artists
+2544	SKD EMP NEC PROF TECH WRKS ARTISTS	Skilled, Employees, not elsewhere classified, Professional, Technical Workers, Artists
+2604	ARMED FORCES EMP NEC ARMED FORCES B & F	Armed Forces, Employees, not elsewhere classified, Armed Forces, British & Foreign
+9935	UNOCC MAJ INC OAP RET/UNEMP	Unoccupied, Majority of Income is from Old Age Pension, Retired/Unemployed
+9945	UNOCC MAJ INC STATE PEN RET/UNEMP	Unoccupied, Majority of Income is from Other State Pensions, Retired/Unemployed
+9955	RET UNOCC MAJ INC NSTATE RET/UNEMP	Retired and Unoccupied Where Majority of Income Is Not From The State, Retired/Unemployed
+9965	UNEMP/SICK MAJ INC N.I RET/UNEMP	Unemployed/Sick, Majority of Income is from National Insurance Benefit, Retired/Unemployed
+9975	UNEMP/SICK MAJ INC NOT N.I RET/UNEMP	Unemployed/Sick, Majority of Income Is Not From National Insurance Benefit, Retired/Unemployed
+9985	NONEARNERS WIVES CHILDREN RET/UNEMP	Non-earners, Wives, Children, Retired/Unemployed
+9995	NO-INFO AND VISITORS 16+ RET/UNEMP	No-information & Visitors 16+, Retired/Unemployed

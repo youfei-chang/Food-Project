@@ -1,0 +1,54 @@
+Table_Name	Field_Name	Description	Type_(MS_Access_numeric_type)	Size_(MS_Access_number_of_bytes)	Type_(MS_Access_alphanumeric_type)	NFS_Lookup_table	Notes
+Data: household data	hhno	household number	4	4	"Number, Long Integer"		
+Data: household data	gormet2	government office region metropolitan county	4	4	"Number, Long Integer"	DCV: GORMET2.txt	Not populated before 1997
+Data: household data	reg	standard statistical region	4	4	"Number, Long Integer"	DCV: Region.txt	
+Data: household data	lad	local authority district	4	4	"Number, Long Integer"	DCV: LAD.txt	Northern Ireland from 1996 to 2000
+Data: household data	styr	statistical year	4	4	"Number, Long Integer"		
+Data: household data	stmth	statistical month	4	4	"Number, Long Integer"		
+Data: household data	mic	ownership of microwave (1 = yes 0= not)	4	4	"Number, Long Integer"	DCV: Microwave ownership.txt	Not used before 1989
+Data: household data	frez	ownership of freezer (1 = yes 0= not)	4	4	"Number, Long Integer"	DCV: Freezer ownership.txt	
+Data: household data	owndw	tenure (ownership of dwelling)	4	4	"Number, Long Integer"	DCV: Ownership of dwelling.txt	Coding changed from 1997 on to include squatting 
+Data: household data	memhh	number of members of the household	4	4	"Number, Long Integer"		"This field has been top-coded to remove all households with more than 10 members, for disclosure control purposes."
+Data: household data	schmilk	school milk	4	4	"Number, Long Integer"	DCV: School milk.txt	Not used before 1998
+Data: household data	incgp	income group of the head of the household	4	4	"Number, Long Integer"	DCV: Income Group.txt	
+Data: household data	occhoh	occupation of the head of the household	4	4	"Number, Long Integer"	DCV_ OCC_OCCHOH Occupation class with unpacked descriptions.txt	"Not used from 1994 onwards, replaced by sochoh"
+Data: household data	sochoh	social occupation class of the head of the household	4	4	"Number, Long Integer"	DCV: Standard occupation class.txt	Not used before 1994
+Data: household data	dacthoh	degree of activity of the head of the household	4	4	"Number, Long Integer"	DCV: Degree of activity.txt	Not used from 1994 onwards
+Data: household data	Finc_decile_by_members_of_hh	"family income by decile, net household income divided by weighting factor for household composition"	4	4	"Number, Long Integer"		"New field, see Equivalised Net Household Income Decile by household composition.pdf for description"
+Data: household data	finctp	family income type	4	4	"Number, Long Integer"	DCV: Family income tp.txt	
+Data: household data	pernohoh	person number of head of household	4	4	"Number, Long Integer"		
+Data: household data	pernohw	person  number of housewife	4	4	"Number, Long Integer"		
+Data: household data	agehoh_banded	age of head of household (banded)	4	4	"Number, Long Integer"	"Ref_Age_bands_for_household_table,txt"	All age fields have been banded for disclosure control purposes.
+Data: household data	agehw_banded	age of housewife (banded)	4	4	"Number, Long Integer"	"Ref_Age_bands_for_household_table,txt"	All age fields have been banded for disclosure control purposes.
+Data: household data	adltm	number of male adults (18 years or over plus 16 or 17 head of households)	4	4	"Number, Long Integer"		
+Data: household data	adltf	number of female adults (18 years or over plus 16 or 17 head of households)	4	4	"Number, Long Integer"		
+Data: household data	child	number of children	4	4	"Number, Long Integer"		
+Data: household data	oaps	number of old age pensioners	4	4	"Number, Long Integer"		
+Data: household data	adltgt64	number of members of the household aged over 64 years	4	4	"Number, Long Integer"		
+Data: household data	stqtr	statistical quarter	4	4	"Number, Long Integer"		
+Data: household data	country	country	10	255	Text		Northern Ireland from 1996 to 2000
+Data: household data	gor	government office region	4	4	"Number, Long Integer"	DCV: GOR	Northern Ireland from 1996 to 2000.
+Data: household data	agemdk_banded	age of main diary keeper	4	4	"Number, Long Integer"	"Ref_Age_bands_for_household_table,txt"	All age fields have been banded for disclosure control purposes.
+Data: household data	incgpa	income group (1 = All A  2=B  3=C 4=D & E2 5=E1 & OAPs)	4	4	"Number, Long Integer"	DCV: Income group (A group).txt	
+Data: household data	hhcomp	household composition	4	4	"Number, Long Integer"	DCV: Household Composition.txt	
+Data: household data	hhcompa	household composition (all adults)	4	4	"Number, Long Integer"	DCV: Household Compositon (A group).txt	
+Data: household data	hcxigs	household composition by income group	4	4	"Number, Long Integer"	DCV: Household composition x income group.txt	
+Data: household data	dat1rec	date (first day of record keeping)	8	8	Date		Data was probably corrupted in move from original database server to MS Windows/Access system
+Data: household data	doormilk	doorstep milk delivery (1 = yes 2 = no)	4	4	"Number, Long Integer"	DCV: doormilk.txt	Not used before 1999
+Data: household data	frij	ownership of fridge  (1 = yes 0= not)	4	4	"Number, Long Integer"	DCV: Fridge ownership.txt	Not used from 1989 onwards
+Data: household data	earners	number of earners in the household	4	4	"Number, Long Integer"		
+Data: household data	occxhoh	occupation of crossover head of household	4	4	"Number, Long Integer"	DCV: Occupation class.txt	"References to ""crossover"" appear in original database field descriptors, this means where the income of the Head of household is lower than another adult in household i.e. Person 2. DCV_ OCC_OCCHOH Occupation class with unpacked descriptions.txt AS"
+Data: household data	socxhoh	social occupation class of cross head of household	4	4	"Number, Long Integer"	DCV: Standard occupation class.txt	"References to ""crossover"" appear in original database field descriptors, this means where the income of the Head of household is lower than another adult in household i.e. Person 2. DCV_ OCC_OCCHOH Occupation class with unpacked descriptions.txt AS"
+Data: household data	dactxhoh	degree of activity of cross over head of household	4	4	"Number, Long Integer"	DCV: Degree of activity.txt	"References to ""crossover"" appear in original database field descriptors, this means where the income of the Head of household is lower than another adult in household i.e. Person 2. DCV_ OCC_OCCHOH Occupation class with unpacked descriptions.txt AS"
+Data: household data	szwkest	size of work establishment of head of household	4	4	"Number, Long Integer"	DCV: Size of work establishment.txt	
+Data: household data	empst	employment status of head of household (1 = employed 2 = unemployed)	4	4	"Number, Long Integer"	DCV: Employment status.txt	Not populated before 1984
+Data: household data	wkdy1rec	weekday (1 st day of recording) 1 = Sunday....7=Saturday	4	4	"Number, Long Integer"	DCV: Weekday (1st day of recording).txt	"All the diary facsimiles state that 1=Monday thoughout the series, yet some background documentation from MAFF/Defra states 1=Sunday. Data suggests former is correct. Care should be taken with this field. AS"
+Data: household data	vegind	vegetarian indicator	4	4	"Number, Long Integer"	DCV: Vegetarian indicator.txt	
+Data: household data	gornw	government office region for northwest and merseyside (1=north west/merseyside 2=other)	4	4	"Number, Long Integer"	DCV: GORNW.txt	"Merseyside was a separate Government Office Region from1994 to 1998, when it was merged into the North West England Region."
+Data: household data	pernxhoh	person number cross over head of household	4	4	"Number, Long Integer"		"References to ""crossover"" appear in original database field descriptors, this means where the income of the Head of household is lower than another adult in household i.e. Person 2. DCV_ OCC_OCCHOH Occupation class with unpacked descriptions.txt AS"
+Data: household data	jobsthoh	job status of head of household	4	4	"Number, Long Integer"	DCV: Job status of HOH.txt	Not used before 1994
+Data: household data	incgp745	income group (1974-1975)	4	4	"Number, Long Integer"	DCV: Income group 7475.txt	1974 to 1975 only
+Data: household data	withjob	with job indicator - accomodation tied to employment	4	4	"Number, Long Integer"	DCV_ WITHJOB (1998 to 2000 only).txt	Not used before 1998
+Data: household data	landlord	landlord status indicator: type of landlord	4	4	"Number, Long Integer"	DCV: LANDLORD (1998 to 2000 only).txt	Not used before 1998
+Data: household data	furnish	furnished indicator: is the accomodation furnished	4	4	"Number, Long Integer"	DCV: FURNISHED (1998 to 2000 only).txt	Not used before 1998
+Data: household data	benefits	Benefit indicator	4	4	"Number, Long Integer"		"In receipt of  Income Supplement, Housing Benefit or Working Family Tax Credit = 1, Not in receipt of any of these benefits = 0"

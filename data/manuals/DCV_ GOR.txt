@@ -1,0 +1,14 @@
+gor	Description
+1	North East
+2	North West
+3	Merseyside
+4	Yorkshire and The Humber
+5	East Midlands
+6	West Midlands
+7	Eastern
+8	London
+9	South East
+10	South West
+11	Wales
+12	Scotland
+13	Northern Ireland

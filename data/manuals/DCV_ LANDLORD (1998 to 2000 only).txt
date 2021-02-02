@@ -1,0 +1,8 @@
+LANDLORD	DESCRIPTION
+1	the local authority/council/New Town Development/Scottish Homes
+2	a housing association/co-operative/cbaritable trust
+3	employer (organisation) of a household member
+4	another organisation
+5	individuals
+6	relative/friend (before you lived here) of a household member
+7	another individual private landlord

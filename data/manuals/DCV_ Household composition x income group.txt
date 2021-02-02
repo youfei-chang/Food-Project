@@ -1,0 +1,29 @@
+hcxigs	Description
+1	A ONLY / IG A1+A2
+2	A ONLY / IG B
+3	A ONLY / IG C
+4	A ONLY/1G D+E2
+5	1A+C   / IG A1+A2
+6	1A+C   / IG B
+7	1A+C   / IG C
+8	1A+C/1G D+E2
+9	2A 1C  / IG A1+A2
+10	2A 1C  / IG B
+11	2A 1C  / IG C
+12	2A 1C/1G D+E2
+13	2A 2C  / IG A1+A2
+14	2A 2C  / IG B
+15	2A 2C  / IG C
+16	2A 2C/1G D+E2
+17	2A 3C  / IG A1+A2
+18	2A 3C  / IG B
+19	2A 3C  / IG C
+20	2A 3C/1G D+E2
+21	2A 4+C / IG A1+A2
+22	2A 4+C / IG B
+23	2A 4+C / IG C
+24	2A 4+C/D+E2
+25	3+A+C  / IG A1+A2
+26	3+A+C  / IG B
+27	3+A+C  / IG C
+28	3+A+C/1G D+E2

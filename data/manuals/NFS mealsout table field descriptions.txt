@@ -1,0 +1,9 @@
+FIELD	Description
+hhno	household number
+logday	logday
+schml	school meals provided
+pkdl	number of packed lunches
+othl	other lunches out
+mlwhl	number of meals on wheels
+midml	total number of midday meals out
+mlso	total number of meals out

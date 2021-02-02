@@ -1,0 +1,6 @@
+FIELD	Description	Notes
+minfd	minor food code	See Ref_ fooditem_MINFD_Minor_food_codes.txt
+nutrient	Nutrient number	See Ref: Nutrient.txt
+styr	Statistical year	
+stqtr	Statistical quarter	
+nutcvf	Nutrient conversion factor	See Nutrient Conversion factors.pdf

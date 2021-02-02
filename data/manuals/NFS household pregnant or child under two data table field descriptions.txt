@@ -1,0 +1,4 @@
+Table_Name	Field_Name	Description	Type_(MS_Access_numeric_type)	Size_(MS_Access_number_of_bytes)	Type_(MS_Access_alphanumeric_type)	NFS_Lookup_table	Notes
+household by pregnancy or under twos	hhno	household number	4	4	"Number, Long Integer"		
+household by pregnancy or under twos	Pregnancy_in_household	Is anyone pregnant in household Yes/No?	10	255	Text		
+household by pregnancy or under twos	Child(ren)_under_2	Are there any childern under 2 in household Yes/No?	10	255	Text		

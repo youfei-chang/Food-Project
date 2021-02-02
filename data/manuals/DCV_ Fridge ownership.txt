@@ -1,0 +1,3 @@
+fridge	Description
+0	DO NOT OWN FRIDGE
+1	FRIDGE OWNERS

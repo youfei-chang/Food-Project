@@ -1,0 +1,8 @@
+Table_Name	Field_Name	Description	Type_(MS_Access_numeric_type)	Size_(MS_Access_number_of_bytes)	Type_(MS_Access_alphanumeric_type)	NFS_Lookup_table	Notes
+Data: diary data	hhno	household number	4	4	"Number, Long Integer"		
+Data: diary data	fditemno	food item number	4	4	"Number, Long Integer"		
+Data: diary data	logday	logday (1 equals the first day of record keeping)	4	4	"Number, Long Integer"		
+Data: diary data	pv	purchase value (pence)	4	4	"Number, Long Integer"		
+Data: diary data	minfd	minor food code	4	4	"Number, Long Integer"	Ref_MINFD_Minor_food_codes.txt	
+Data: diary data	cq	"quantity available for consumption (not necessarily all consumed due to unavoidable waste such as bones, shells, peel, and avoidable waste)  "	7	8	"Number, Double"	Ref: Unit conversion factors.txt	"All food and drink was recorded in imperial units of measure from 1974 to 2000. In 1992 confectionery and alcohol were added to the survey, measured in metric units."
+Data: diary data	pf	"purchase free (1,5 & 9 indicate purchased food 2, 3, 4, 6, 7 & 8 indicate free food)"	4	4	"Number, Long Integer"		
